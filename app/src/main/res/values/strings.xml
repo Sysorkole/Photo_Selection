@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="ImgButton">Imagem selecionada pelo usuário</string>
+    <string name="imgSelectButton">Select Photo</string>
+</resources>
